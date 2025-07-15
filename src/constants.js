@@ -37,7 +37,7 @@ import amazonLogo from './assets/work_logo/Amazon.png';
 import EcommerceLogo from './assets/work_logo/Ecommerce_Website.png';
 import SortingVisualizerLogo from './assets/work_logo/Sorting_Visualizer.png';
 import spotifyLogo from './assets/work_logo/Spotify.png';
-import wanderlustLogo from './assets/work_logo/wanderlust.png';
+import wanderlustLogo from './assets/work_logo/Wanderlust.png';
 
 export const SkillsInfo = [
   {
